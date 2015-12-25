@@ -13,6 +13,14 @@ angular.module('calcentral.controllers').controller('AcademicsGpaController', fu
       weight: 4
     },
     {
+      grade: 'A+',
+      weight: 4
+    },
+    {
+      grade: 'A',
+      weight: 4
+    },
+    {
       grade: 'A-',
       weight: 3.7
     },
